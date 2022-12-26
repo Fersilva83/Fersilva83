@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernanda</h1>
+
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
 <h3 align="center">Passionate about technologies and solving problems, back-end developer and full-stack developer </h3>
 
